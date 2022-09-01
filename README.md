@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IhumaBelharra, a dev apprentice 
-- 👀 I’m interested in back-end developpement
+- 👀 I’m interested in system and back-end developpement
 - 🌱 I’m currently learning Python, Java and Bash 
 - 📫 How to reach me > ipolly.dev@proton.me
 
