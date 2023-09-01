@@ -1,3 +1,5 @@
+<!-- daily.dev BOOKMARKS:START --> <!-- daily.dev BOOKMARKS:END -->
+
 - 👋 Hi, I’m @IhumaBelharra, a dev apprentice 
 - 👀 I’m interested in system and back-end developpement
 - 🌱 I’m currently learning Python, Java and Bash 
@@ -7,5 +9,3 @@
 IhumaBelharra/IhumaBelharra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!--  daily.dev BOOKMARKS:START -->
-<!--  daily.dev BOOKMARKS:END -->
