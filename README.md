@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/polly64"><img src="https://api.daily.dev/devcards/64e11fcca7f943a790e09e31b5c63948.png?r=xuv" width="280" alt="Polly Anna's Dev Card" align="right" /></a>
+<a href="https://app.daily.dev/Ihu_Ma"><img src="https://api.daily.dev/devcards/64e11fcca7f943a790e09e31b5c63948.png?r=kmk" width="280" alt="Ihuma's Dev Card" align="right" /></a>
 <h1 align="center">IhumaBelharra</h1>
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=ffd343&color=ffd343)
