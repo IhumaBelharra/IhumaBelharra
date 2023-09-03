@@ -4,11 +4,11 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=ffd343&color=ffd343)
 
 <!-- daily.dev BOOKMARKS:START -->
+- [10 Keys To Securing Software Release and Delivery](https://app.daily.dev/posts/D7BSCJNOd?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [North Korean Hackers Deploy New Malicious Python Packages in PyPI Repository](https://app.daily.dev/posts/uvBaUcoj2?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [What I learned from Software Engineering at Google](https://app.daily.dev/posts/n0u0kn3QD?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 - [Use of color](https://app.daily.dev/posts/NwTixngjw?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 - [Design Patterns](https://app.daily.dev/posts/IO36EurRn?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [EP74: The Evolution of AWS Services](https://app.daily.dev/posts/i4mclirUB?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [Yes, you can measure software developer productivity](https://app.daily.dev/posts/xHl8fVWh1?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [Why Rust is the most admired language among developers](https://app.daily.dev/posts/vg5fRaPHI?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 <!-- daily.dev BOOKMARKS:END --> 
 
 - 👋 Hi, I’m @IhumaBelharra, a dev apprentice 
