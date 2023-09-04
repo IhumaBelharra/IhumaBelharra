@@ -4,11 +4,11 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=ffd343&color=ffd343)
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Solution Architect: Role Description, Responsibilities, and Processes](https://app.daily.dev/posts/vUgQ0DzSa?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [How to Solve the First 100 Project Euler Problems 1-5](https://app.daily.dev/posts/W4J52GITm?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [Measuring developer productivity? A response to McKinsey](https://app.daily.dev/posts/Iu04Q9vI9?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [How to Give Developers Cloud Security Tools They’ll Love](https://app.daily.dev/posts/DeupJZepl?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [10 Keys To Securing Software Release and Delivery](https://app.daily.dev/posts/D7BSCJNOd?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [The Agile Architect](https://app.daily.dev/posts/FwioDKpyy?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [Top AI-Based Art Inpainting Tools](https://app.daily.dev/posts/ZBdkNlCac?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [How &lpar;not&rpar; to get people to download your app 🫣](https://app.daily.dev/posts/ArChmkbvS?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [Learn Machine Learning and Neural Networks without Frameworks](https://app.daily.dev/posts/0VsqyZadm?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [The 11 Types Of Toxic Pull Requests &lpar;According To 4.5 Million Code Branches&rpar;](https://app.daily.dev/posts/97jfi6xSI?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 <!-- daily.dev BOOKMARKS:END --> 
 
 - 👋 Hi, I’m @IhumaBelharra, a dev apprentice 
