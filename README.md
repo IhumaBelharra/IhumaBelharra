@@ -4,11 +4,11 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=ffd343&color=ffd343)
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Solution Architect: Role Description, Responsibilities, and Processes](https://app.daily.dev/posts/vUgQ0DzSa?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [How to Solve the First 100 Project Euler Problems 1-5](https://app.daily.dev/posts/W4J52GITm?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [Measuring developer productivity? A response to McKinsey](https://app.daily.dev/posts/Iu04Q9vI9?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 - [How to Give Developers Cloud Security Tools They’ll Love](https://app.daily.dev/posts/DeupJZepl?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 - [10 Keys To Securing Software Release and Delivery](https://app.daily.dev/posts/D7BSCJNOd?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [North Korean Hackers Deploy New Malicious Python Packages in PyPI Repository](https://app.daily.dev/posts/uvBaUcoj2?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [What I learned from Software Engineering at Google](https://app.daily.dev/posts/n0u0kn3QD?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [Use of color](https://app.daily.dev/posts/NwTixngjw?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 <!-- daily.dev BOOKMARKS:END --> 
 
 - 👋 Hi, I’m @IhumaBelharra, a dev apprentice 
