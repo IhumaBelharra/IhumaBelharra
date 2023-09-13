@@ -4,11 +4,11 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=ffd343&color=ffd343)
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Can We Query the Root Container?](https://app.daily.dev/posts/BnmBmiXj0?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [SBOMs, SBOMs Everywhere](https://app.daily.dev/posts/Bire6SPK0?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 - [Building a CI/CD Pipeline with AWS, K8S, Docker, Ansible, Git, Github, Apache Maven, and Jenkins](https://app.daily.dev/posts/JCjaB8adT?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 - [Why Fast?](https://app.daily.dev/posts/3oftU486H?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 - [Understanding Dynamic Programming So You Can Use It Effectively](https://app.daily.dev/posts/8Nv4P0RAy?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [The Agile Architect](https://app.daily.dev/posts/FwioDKpyy?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [Top AI-Based Art Inpainting Tools](https://app.daily.dev/posts/ZBdkNlCac?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 <!-- daily.dev BOOKMARKS:END --> 
 
 - 👋 Hi, I’m @IhumaBelharra, a dev apprentice 
