@@ -4,11 +4,11 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=ffd343&color=ffd343)
 
 <!-- daily.dev BOOKMARKS:START -->
-- [cloudcommunity/Free-Certifications: A curated list of free courses &amp; certifications.](https://app.daily.dev/posts/M4WyffKiE?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [Master the Perfect ChatGPT Prompt Formula](https://app.daily.dev/posts/JKdaUVJH7?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [Node.js vs. Deno vs. Bun: JavaScript runtime comparison](https://app.daily.dev/posts/xJTZR2Kjn?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [How DevOps Can Cost You Millions](https://app.daily.dev/posts/QcP81gcbA?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [Understanding the Experience of Code Review](https://app.daily.dev/posts/NOjG3VImK?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [Best of Level Up Coding &lpar;September 2023&rpar;](https://app.daily.dev/posts/GXeW2FUuv?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [How we made our Go microservice 24x faster](https://app.daily.dev/posts/O04I8Q51Y?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [Sonatype reveals DevOps and SecOps leaders’ views on generative AI](https://app.daily.dev/posts/3xXqYCi0q?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [DevOps and Kubernetes: we’ve been doing it wrong](https://app.daily.dev/posts/xyKwDH8GV?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [A PDF Framework](https://app.daily.dev/posts/hgMxpb44U?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 <!-- daily.dev BOOKMARKS:END --> 
 
 - 👋 Hi, I’m @IhumaBelharra, a dev apprentice 
