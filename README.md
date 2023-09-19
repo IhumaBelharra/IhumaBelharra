@@ -4,11 +4,11 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=ffd343&color=ffd343)
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Generative AI for Education: A Curriculum and Instruction Perspective](https://app.daily.dev/posts/2IvftWj59?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 - [Skip the API, Ship Your Database](https://app.daily.dev/posts/BGGcfHVJV?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 - [Create your own Design system: Chapter Colors](https://app.daily.dev/posts/CHPC1Gpn6?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 - [Can Charts Reveal Hidden Patterns?](https://app.daily.dev/posts/t5SKkkkGJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 - [Best of Level Up Coding &lpar;September 2023&rpar;](https://app.daily.dev/posts/GXeW2FUuv?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [How we made our Go microservice 24x faster](https://app.daily.dev/posts/O04I8Q51Y?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 <!-- daily.dev BOOKMARKS:END --> 
 
 - 👋 Hi, I’m @IhumaBelharra, a dev apprentice 
