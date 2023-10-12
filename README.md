@@ -4,11 +4,11 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=ffd343&color=ffd343)
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Python for DevSecOps and Any Security Engineer](https://app.daily.dev/posts/W7vxTAUHy?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [Your Organization Probably Doesn&#39;t Want To Improve Things — Ludicity](https://app.daily.dev/posts/IkwAO4imj?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 - [Early Adopters of Industrial DevOps](https://app.daily.dev/posts/IYmZYWUuW?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 - [The Complete Microservices Guide](https://app.daily.dev/posts/gmr1MyHHT?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 - [Generative AI for Education: A Curriculum and Instruction Perspective](https://app.daily.dev/posts/2IvftWj59?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [Skip the API, Ship Your Database](https://app.daily.dev/posts/BGGcfHVJV?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [Create your own Design system: Chapter Colors](https://app.daily.dev/posts/CHPC1Gpn6?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 <!-- daily.dev BOOKMARKS:END --> 
 
 - 👋 Hi, I’m @IhumaBelharra, a dev apprentice 
