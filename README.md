@@ -4,11 +4,11 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=ffd343&color=ffd343)
 
 <!-- daily.dev BOOKMARKS:START -->
+- [7 Open-Source Search Engines for your Enterprise and Startups you MUST know.](https://app.daily.dev/posts/J55VZwpTO?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [2023 DevOps is terrible.](https://app.daily.dev/posts/9pjMhBTnC?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 - [From Python to Julia: An Ultimate Guide](https://app.daily.dev/posts/6a98DtOgr?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 - [7 Repositories That Will Make You 90% Smarter](https://app.daily.dev/posts/NH0rO6ofF?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 - [Fish Shell](https://app.daily.dev/posts/QbUVn9Uuh?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [Net neutrality meets opposition in US](https://app.daily.dev/posts/DPXgIyVaT?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [Python for DevSecOps and Any Security Engineer](https://app.daily.dev/posts/W7vxTAUHy?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 <!-- daily.dev BOOKMARKS:END --> 
 
 - 👋 Hi, I’m @IhumaBelharra, a dev apprentice 
