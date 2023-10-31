@@ -4,11 +4,11 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=ffd343&color=ffd343)
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Are We Witnessing the End of Open Source?](https://app.daily.dev/posts/qvC7XJavl?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [Bun: lessons from disrupting a tech ecosystem](https://app.daily.dev/posts/wyWfRNs0G?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [Hugging Face Transformers: Building a Python Application for Advanced Language Understanding](https://app.daily.dev/posts/fpAbGABxg?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [You&#39;re Doing Shift-Left Wrong](https://app.daily.dev/posts/VhEHsB94u?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [7 Open-Source Search Engines for your Enterprise and Startups you MUST know.](https://app.daily.dev/posts/J55VZwpTO?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [How Container Networking Works: Practical Explanation](https://app.daily.dev/posts/qiJm4MxH9?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [Making a Good Engineer a Great One: Training Your Skills and Training Your Mindset](https://app.daily.dev/posts/a89VsU4Zx?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [DevOps Halloween: Tricks and Treats](https://app.daily.dev/posts/hg5nJonZN?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [The role of Large Language Models &lpar;LLMs&rpar; in automating pipeline conversions from legacy to Tekton](https://app.daily.dev/posts/YnpqgplHw?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [People say devs are arrogant towards &quot;regular&quot; people, let&#39;s give them a reason to!😎 What&#39;s the most arrogant thing a dev can say?](https://app.daily.dev/posts/2xBZlRcAJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 <!-- daily.dev BOOKMARKS:END --> 
 
 - 👋 Hi, I’m @IhumaBelharra, a dev apprentice 
