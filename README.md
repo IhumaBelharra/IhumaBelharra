@@ -4,11 +4,11 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=ffd343&color=ffd343)
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Phase - Open-source secrets management for developers](https://app.daily.dev/posts/3ywNOLWJP?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [8 design system management tools for organizations](https://app.daily.dev/posts/g4AB8j-E3?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [37 Innovative Ways to Use Accent Colors with Visual Guide](https://app.daily.dev/posts/ge6tpWfXw?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [How Container Networking Works: Practical Explanation](https://app.daily.dev/posts/qiJm4MxH9?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
-- [Making a Good Engineer a Great One: Training Your Skills and Training Your Mindset](https://app.daily.dev/posts/a89VsU4Zx?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [Phase - Open-source secrets management for developers](https://daily.dev/posts/3ywNOLWJP?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [8 design system management tools for organizations](https://daily.dev/posts/g4AB8j-E3?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [37 Innovative Ways to Use Accent Colors with Visual Guide](https://daily.dev/posts/ge6tpWfXw?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [How Container Networking Works: Practical Explanation](https://daily.dev/posts/qiJm4MxH9?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
+- [Making a Good Engineer a Great One: Training Your Skills and Training Your Mindset](https://daily.dev/posts/a89VsU4Zx?utm_source=rss&utm_medium=bookmarks&utm_campaign=Z1XgSyCBkf0yjD80kbM80)
 <!-- daily.dev BOOKMARKS:END --> 
 
 - 👋 Hi, I’m @IhumaBelharra, a dev apprentice 
